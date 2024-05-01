@@ -10,6 +10,9 @@ Run test files in VSCode.
 You can choose the algorithm by editing the python file.
 
 
+The result of visualization is uploaded as video files.
+
+
 ## 1.1: An alternative sampling-based algorithm
 
 
