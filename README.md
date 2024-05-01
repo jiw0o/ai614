@@ -1,5 +1,5 @@
 # ai614
-This ropository is for Assignment for AI614, Task and motion planning
+This ropository is Assignment for AI614, Task and motion planning
 
 Run test files in VSCode.
 You can choose the algorithm by editing the python file.
