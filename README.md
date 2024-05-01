@@ -10,3 +10,4 @@ This ropository is for Assignment for AI614, Task and motion planning
 2.1 RRT*
 
 2.2 (Potentially) Improving RRT*
+<img src="Images/ImprovedRRTstar.png">
