@@ -1,4 +1,4 @@
-# ai614
+# AI614 Assignment
 
 
 This ropository is Assignment for AI614, Task and motion planning
